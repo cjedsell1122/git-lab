@@ -1,12 +1,16 @@
 Answer 1: git version 2.34.1
 
-Answer 2:   user.name=cjedsell1122
+Answer 2:   
+
+            user.name=cjedsell1122
             user.email=ce897223@ohio.edu
             credential.helper=cache
 
 Answer 3: It lists various commands and how to use them
 
-Answer 4:   On branch master
+Answer 4:   
+
+            On branch master
 
             No commits yet
 
@@ -15,7 +19,9 @@ Answer 4:   On branch master
             	README.md
             	answers.md
 
-Answer 5:   On branch master
+Answer 5:   
+
+            On branch master
 
             No commits yet
 
@@ -27,7 +33,9 @@ Answer 5:   On branch master
             (use "git add <file>..." to include in what will be committed)
                 answers.md
 
-Answer 6:   On branch master
+Answer 6:   
+
+            On branch master
 
             No commits yet
 
@@ -36,22 +44,32 @@ Answer 6:   On branch master
                 new file:   README.md
                 new file:   answers.md
 
-Answer 7:   On branch master
+Answer 7:   
+
+            On branch master
             nothing to commit, working tree clean
 
-Answer 8:   commit d51e657e9eb80b9a6fa4f476eac0f7be3b6ab881 (HEAD -> master)
+Answer 8:   
+
+            commit d51e657e9eb80b9a6fa4f476eac0f7be3b6ab881 (HEAD -> master)
             Author: cjedsell1122 <ce897223@ohio.edu>
             Date:   Thu Sep 5 15:25:15 2024 -0400
 
                 Initial commit
 
-Answer 9:   On branch main
+Answer 9:   
+
+            On branch main
             Your branch is up to date with 'origin/main'.
 
             nothing to commit, working tree clean
 
 Answer 10: The changes were not reflected locally.
+
 Answer 11: The push was rejected because nothing was changed locally.
+
 Answer 12: Yes, the changed were made locally
 
-Answer 13:   .  ..  .git  .gitignore  README.md
+Answer 13:   
+
+            .  ..  .git  .gitignore  README.md
