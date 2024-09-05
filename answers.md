@@ -50,3 +50,8 @@ Answer 9:   On branch main
 
             nothing to commit, working tree clean
 
+Answer 10: The changes were not reflected locally.
+Answer 11: The push was rejected because nothing was changed locally.
+Answer 12: Yes, the changed were made locally
+
+Answer 13:   .  ..  .git  .gitignore  README.md
